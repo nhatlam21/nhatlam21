@@ -22,7 +22,7 @@ I'm a developer and system administrator who keeps multi-server Linux/Windows en
 - 🔭 Currently working on: HTTPS rollout, monitoring (Grafana + Prometheus), web application backends
 - 🌱 Learning: DevOps practices, CI/CD, infrastructure as code
 - 🌏 Based in Vietnam · open to remote opportunities
-- 📫 Reach me: **your-email@example.com** · [LinkedIn](https://www.linkedin.com/in/your-handle)
+- 📫 Reach me: **lamnhatle357@gmail.com** · [LinkedIn](https://www.linkedin.com/in/lengocnhatlam?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 
 ### 🛠️ Tech stack
 
